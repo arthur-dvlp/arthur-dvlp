@@ -1,4 +1,4 @@
-# Engenharia Elétrica | Redes | Linux | Cybersec**
+# Engenharia Elétrica | Redes | Linux | Cybersec
 
 Trabalhando com:
 - Engenharia Elétrica prática
