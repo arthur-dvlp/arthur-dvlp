@@ -2,7 +2,7 @@
 
 **Engenharia Elétrica | Redes | Linux | Cybersec**
 
-## Trabalhando com
+Trabalhando com:
 - Engenharia Elétrica prática
 - Eletrônica e sistemas de energia
 - Integração de TI com engenharia
